@@ -1,7 +1,7 @@
 
 # Források és megoldások - ELTE Digitális kultúra - Érettségi felkészítő gyakorlati feladatsorok (2024)
 
-Ez a repositorz tartalmazza a forrásokat és megoldásokat az 
+Ez a repository tartalmazza a forrásokat és megoldásokat az 
 ELTE Digitális kultúra - Érettségi felkészítő gyakorlati feladatsorok - Emelt szint (2024) könyvhöz.
 
 ![Borító](borito.jpg)
