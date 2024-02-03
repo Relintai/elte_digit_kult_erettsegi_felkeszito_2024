@@ -1,0 +1,4 @@
+ID	nev
+1	tmobile
+2	yettel
+3	vodafone

@@ -1,0 +1,19 @@
+ID	nev	meretid	atlagostomeg
+1	border collie	2	15
+2	labrador	3	25
+3	dalmata	3	22
+4	uszkár	3	20
+5	német juhász	3	30
+6	bernáthegyi	3	40
+7	tacskó	1	5
+8	vizsla	3	12
+9	agár	3	13
+10	spániel	2	6
+11	belga juhász	3	32
+12	cavapoo	1	6
+13	csivava	1	3
+14	dobermann	3	27
+15	komondor	3	38
+16	kuvasz	3	40
+17	mudi	2	14
+18	boxer	3	19

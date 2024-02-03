@@ -1,0 +1,39 @@
+NÉV,POSZT,RÉSZLEG,FIZETÉS,KEZDÉS,VÉGE
+Kovács Anna,Fejlesztő,Informatika,420000,2020-01-15,2022-03-10
+Nagy Gábor,Marketing Specialista,Marketing,510000,2019-05-10,2022-08-20
+Varga Katalin,HR Menedzser,HR,355000,2018-07-22,2021-11-05
+Molnár Miklós,Adatelemző,Pénzügy,450000,2021-03-05,2023-01-18
+Horváth István,Projektmenedzser,Informatika,480000,2017-11-08,
+Kovács Judit,Kommunikációs Specialista,Marketing,390000,2019-09-12,2022-06-30
+Fekete Péter,Képzési Koordinátor,HR,375000,2020-02-18,
+Bíró Klára,Adatbázis Adminisztrátor,Informatika,550000,2018-04-30,
+Kiss Ádám,Pénzügyi Elemző,Pénzügy,520000,2020-07-01,2022-10-15
+Tóth Éva,Marketing Asszisztens,Marketing,340000,2019-01-07,2023-04-25
+Kovács Bence,HR Asszisztens,HR,320000,2022-05-03,2023-09-10
+Nagy Krisztina,Fejlesztő,Informatika,390000,2021-08-14,2022-11-28
+Szabó László,Projektmenedzser,Informatika,490000,2016-12-19,
+Balogh Zsuzsa,Kommunikációs Specialista,Marketing,360000,2018-10-25,2021-07-12
+Fehér Gergő,Adatelemző,Pénzügy,430000,2022-01-12,2023-03-05
+Varga Dóra,Képzési Koordinátor,HR,410000,2019-04-05,2022-08-20
+Molnár Máté,Adatbázis Adminisztrátor,Informatika,570000,2017-06-28,2021-12-03
+Kovács Réka,Pénzügyi Elemző,Pénzügy,500000,2018-09-17,2022-07-19
+Kiss Ádám,Marketing Asszisztens,Marketing,335000,2020-11-23,2023-02-10
+Fekete Ildikó,HR Asszisztens,HR,340000,2021-10-08,2022-09-15
+Kovács Gábor,Fejlesztő,Informatika,480000,2019-03-15,2022-04-08
+Horváth Enikő,Projektmenedzser,Informatika,510000,2020-08-27,2023-01-20
+Nagy Ferencné,Kommunikációs Specialista,Marketing,375000,2017-04-04,
+Tóth Balázs,Adatelemző,Pénzügy,440000,2021-02-09,2023-03-15
+Bíró Anita,Képzési Koordinátor,HR,395000,2018-05-20,2022-10-28
+Kiss Sándor,Adatbázis Adminisztrátor,Informatika,560000,2022-04-13,2023-06-05
+Fekete Nóra,Pénzügyi Elemző,Pénzügy,490000,2019-07-26,2022-12-12
+Nagy Csaba,Marketing Asszisztens,Marketing,330000,2020-10-30,2023-05-30
+Kovács Lilla,HR Asszisztens,HR,310000,2021-12-03,2023-04-20
+Szabó Zoltán,Fejlesztő,Informatika,400000,2018-02-14,2022-09-08
+Kiss Katalin,Projektmenedzser,Informatika,530000,2016-09-09,2021-11-15
+Horváth Lajos,Kommunikációs Specialista,Marketing,380000,2019-06-16,
+Kovács Réka,Adatelemző,Pénzügy,460000,2022-03-02,2023-08-10
+Bíró Attila,Képzési Koordinátor,HR,430000,2018-06-25,2022-04-01
+Fekete Dóra,Adatbázis Adminisztrátor,Informatika,590000,2017-10-18,2023-01-25
+Nagy György,Pénzügyi Elemző,Pénzügy,510000,2019-04-29,2022-06-28
+Kiss Viktória,Marketing Asszisztens,Marketing,325000,2020-01-14,2023-05-15
+Tóth Éva,HR Asszisztens,HR,315000,2022-01-10,

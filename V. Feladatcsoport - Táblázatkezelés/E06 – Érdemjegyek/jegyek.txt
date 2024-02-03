@@ -1,0 +1,42 @@
+﻿K. Bettina,9a,Magyar irodalom,4,5,3,4
+P. Gergő,9b,Biológia,5,,2,3
+V. Anna,10a,Matematika,1,2,1,1
+N. László,10b,Informatika,4,2,,5
+S. Zsófia,11a,Fizika,,4,1,
+K. Dávid,11b,Magyar irodalom,,5,5,4
+F. Erika,12a,Magyar irodalom,5,3,4,4
+P. Gergő,9b,Biológia,2,4,3,5
+K. Bettina,9a,Informatika,4,3,,
+N. Eszter,9b,Fizika,5,3,,4
+K. Bettina,10a,Magyar irodalom,1,,1,5
+S. Katalin,10b,Matematika,5,,2,4
+K. Bence,11a,Biológia,4,2,,3
+V. Dorottya,11b,Informatika,,5,4,4
+S. Márton,12a,Fizika,4,4,3,
+K. Lili,12b,Magyar irodalom,5,3,,4
+P. Gábor,9a,Matematika,1,1,,2
+N. Zsuzsa,9b,Biológia,,4,,4
+S. Krisztián,10a,Informatika,,2,3,
+F. Emese,10b,Fizika,5,4,5,4
+L. Sándor,11a,Magyar irodalom,1,5,,3
+M. Viktória,11b,Matematika,3,3,1,4
+K. Balázs,12a,Biológia,2,,3,5
+K. Lili,12b,Informatika,4,3,4,3
+K. Júlia,9a,Fizika,5,3,,4
+V. Tamás,9b,Magyar irodalom,,,,5
+N. Henrietta,10a,Matematika,3,5,3,4
+S. Krisztián,10a,Biológia,4,2,4,
+L. Levente,11a,Informatika,5,4,3,
+M. Krisztina,11b,Fizika,4,,4,5
+S. Krisztián,10a,Matematika,5,,2,4
+F. Emese,10a,Biológia,4,2,5,3
+L. Péter,12b,Informatika,4,5,5,4
+K. Dávid,9a,Fizika,5,1,,3
+S. Zsófia,11a,Matematika,,4,4,
+T. Dóra,11b,Informatika,1,1,1,1
+N. Zsuzsa,12a,Biológia,,,,5
+N. Henrietta,9b,Fizika,2,3,4,4
+V. Tamás,12b,Matematika,3,5,,1
+M. Gábor,11a,Biológia,4,,5,5
+P. Gergő,10a,Informatika,,1,,5
+V. Anna,9a,Magyar irodalom,4,2,3,5

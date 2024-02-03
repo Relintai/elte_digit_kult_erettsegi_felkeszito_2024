@@ -1,0 +1,56 @@
+id	nev	egysegar	kategoriaid
+1	tej	3146	1
+2	sajt	3022	1
+3	túró	879	1
+4	kefír	2232	1
+5	tejföl	2558	1
+6	vaj	3107	1
+7	margarin	2260	1
+8	zsemle	3054	2
+9	kifli	2961	2
+10	bagett	1168	2
+11	sajtos pogácsa	951	2
+12	sajtos kifli	1146	2
+13	fehér kenyér	1757	2
+14	kakaós csiga	1283	2
+15	túrós batyu	1223	2
+16	almáspite	2693	2
+17	alma	1991	3
+18	körte	3392	3
+19	szőlő	3205	3
+20	dió	2821	3
+21	banán	3391	3
+22	narancs	1196	3
+23	mandarin	1017	3
+24	nektarin	509	3
+25	szilva	2775	3
+26	kivi	1675	3
+27	eper	2680	3
+28	ribizli	218	3
+29	málna	2793	3
+30	meggy	1120	3
+31	áfonya	3456	3
+32	szeder	1376	3
+33	görögdinnye	2272	3
+34	sárgadinnye	327	3
+35	füge	2245	3
+36	sárgarépa	2932	4
+37	fehérrépa	3008	4
+38	sárga paprika	2858	4
+39	paradicsom	2889	4
+40	kotél paradicsom	3234	4
+41	lila hagyma	306	4
+42	hagyma	1271	4
+43	retek	291	4
+44	káposzta	914	4
+45	burgonya	2800	4
+46	fokhagyma	755	4
+47	fejessaláta	1492	4
+48	fanta	3178	5
+49	kóla	1325	5
+50	almalé	1848	5
+51	baracklé	1148	5
+52	narancslé	671	5
+53	ásványvíz	1617	5
+54	tonic	206	5
+55	jegestea	419	5

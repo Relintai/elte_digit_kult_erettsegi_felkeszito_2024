@@ -1,0 +1,20 @@
+Merkúr;Bolygó;0.055;2439.7;4600;0
+Eris;Törpebolygó;0.016;2326;4500;0
+Plútó;Törpebolygó;0.002;1188.3;4600;5
+Jupiter;Gázóriás;317.8;69911;4600;79
+Mars;Bolygó;0.64171;3389.5;4600;2
+HD 85512b;Exobolygó;0.00361;15400;8000;0
+Kepler-22b;Exobolygó;0.0064;23800;8000;0
+Ceres;Törpebolygó;0.00015;473;4600;0
+Szuperföld Kepler-442b;Exobolygó;0.00315;16000;2500;0
+HD 209458b (Osiris);Exobolygó;0.00647;14000;4000;0
+HD 189733b (Osiris);Exobolygó;0.000113;14400;2200;0
+Barna törpe;Barna törpecsillag;0.18;70000;10000;0
+Proxima Centauri;Vörös törpecsillag;0.000001;200000;4850;1
+TRAPPIST-1e;Exobolygó;0.000000000055;5020;7600;0
+Vega;Fő sorozatú csillag (A0V típus);2.135;2615000;700;0
+Barnard's Star;Barna törpecsillag;0.0000032;152000;10000;0
+Kepler-10c;Bolygó;0.017;29600;11000;0
+Luna;Hold;0.0123;1737.1;4500;0
+Merkúr;Bolygó;0.055;2439.7;4600;0
+Uranusz;Bolygó;317.8;51118;4600;0

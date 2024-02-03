@@ -1,0 +1,14 @@
+id	nev
+1	matematika
+2	irodalom
+3	nyelvtan
+4	angol
+5	német
+6	történelem
+7	kémia
+8	biológia
+9	fizika
+10	rajz
+11	testnevelés
+12	informatika
+13	ének

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Programozási nyelvek</title>
+
+    <style>
+        body {
+            color: black;
+            background-color: rgb(0, 1, 44);
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0px;
+        }
+
+        .content {
+            background-color: rgb(255, 255, 255);
+            width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+
+            border-left: 30px dashed rgb(121, 121, 121);
+            border-right: 30px dashed rgb(121, 121, 121);
+
+            padding: 20px;
+            margin-top: 0px;
+        }
+
+        a {
+            color: #080146;
+        }
+
+        a:visited {
+            color: #080146;
+        }
+
+        a:active {
+            color: #080146;
+        }
+
+        a:hover {
+            color: #080146;
+        }
+
+        .menu {
+            padding: 5px;
+            background-color: rgb(216, 216, 216);
+            margin-top: 30px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        h2 {
+            font-size: 22px;
+            border-left: 2px solid black;
+            border-bottom: 2px solid black;
+            padding: 4px;
+        }
+
+        h3 {
+            font-size: 16px;
+            border-bottom: 2px dotted black;
+            padding: 2px;
+        }
+
+        h3 a {
+            font-size: 16px;
+        }
+
+        h4 {
+            font-size: 14px;
+            color: #000b1a;
+        }
+
+        table {
+            border: 2px solid rgb(0, 0, 0);
+            text-align: left;
+        }
+
+        thead {
+            background-color: rgb(216, 216, 216);
+        }
+
+        .kep_jobb_stilus {
+            margin: 10px;
+            padding: 5px;
+            float: right;
+            border: 1px solid rgb(0, 0, 0);
+        }
+
+        #logo_link {
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            border-top: 2px dotted rgb(0, 0, 0);
+            border-bottom: 2px dotted rgb(0, 0, 0);
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="content">
+        <h1>
+            <img alt="Programozási nyelvek" src="cim.png" height="200" width="800">
+        </h1>
+
+        <div class="menu">
+            <a href="#cpp">C++</a> |
+            <a href="#java">Java</a> |
+            <a href="#python">Python</a>
+        </div>
+
+        <h2>Programozási nyelvek</h2>
+
+        <p>A programozási nyelv a számítógépes programok írására szolgáló jelölésrendszer.</p>
+        <p>Egy programozási nyelvet általában a szintaxis (forma) és a szemantika (jelentés) alapján írnak le. Ezeket általában egy formális nyelv határozza meg.</p>
+        <p>A programozási nyelvek általában absztrakciókat tartalmaznak az adatstruktúrák definiálására és manipulálására vagy a végrehajtás irányítására.</p>
+        <p>A nagyon korai számítógépeket, például a Colossust, áramköreik módosításával vagy fizikai vezérlőelemek beállításával programozták.</p>
+        <p>Valamivel később a programokat gépi nyelven lehetett megírni, ahol a programozó minden egyes utasítást olyan numerikus formában ír le, amelyet a hardver közvetlenül végre tud hajtani.</p>
+        <p>A következő lépés az úgynevezett második generációs programozási nyelvek vagy assembly nyelvek kifejlesztése volt, amelyek még mindig szorosan kötődtek az adott számítógép utasításkészlet-architektúrájához. Ezek azt szolgálták, hogy a program sokkal emberközelibbé váljon, és a programozót megszabadították a fárasztó és hibakockázatos címszámításoktól.</p>
+        <p>Az első magas szintű programozási nyelveket, vagy harmadik generációs programozási nyelveket az 1950-es években írták. A számítógépre tervezett korai magas szintű programozási nyelv a Pascal volt.</p>
+        <p>Ez után alakultak ki a ma használatos főbb nyelvi paradigmák, mint például a funkcionális programozás, vagy a objektumorientált programozás.</p>
+
+        <h2>Magas szintű programozási nyelvek</h2>
+
+        <h3><a name="cpp">C++</a></h3>
+
+        <img class="kep_jobb_stilus" alt="logója C++ logója" src="cpp.png" height="128" width="128">
+
+        <p> A C++ (kiejtése "C plusz plusz"), egy magas szintű, általános célú programozási nyelv, amelyet Bjarne Stroustrup dán informatikus alkotott.</p>
+        <p>Először 1985-ben jelent meg a C programozási nyelv kiterjesztéseként, azóta idővel jelentősen kibővült.</p>
+        <p>A C++-t rendszerprogramozásra, beágyazott, erőforrás-korlátozott szoftverekre és nagyméretű rendszerekre tervezték, a teljesítmény, a hatékonyság és a használat rugalmasságát tartva szem előtt.</p>
+
+        <h4>Filozófia</h4>
+
+        <ul>
+            <li>A programnak tényleges problémákon kell alapulnia, és funkcióinak azonnal hasznosnak kell lenniük a valós világ programjaiban.</li>
+            <li>Minden funkciónak implementálhatónak kell lennie (ésszerűen nyilvánvaló módon).</li>
+            <li>A programozók szabadon választhatják meg a saját programozási stílusukat, és ezt a stílust a C++-nak teljes mértékben támogatnia kell.</li>
+            <li>Egy hasznos funkció engedélyezése fontosabb, mint a C++ minden lehetséges visszaélésének megakadályozása.</li>
+            <li>Lehetőségeket kell biztosítania a programok különálló, jól definiált részekre való szervezésére, és lehetőségeket kell biztosítania a különállóan fejlesztett részek kombinálására.</li>
+            <li>A típusrendszer implicit megsértése tilos (de az explicit, azaz a programozó által kifejezetten kért megsértések megengedettek).</li>
+            <li>A felhasználó által létrehozott típusoknak ugyanolyan támogatással és teljesítményűnek kell lenniük, mint a beépített típusoknak.</li>
+            <li>A nem használt funkciók nem lehetnek negatív hatással a létrehozott futtatható programokra (pl. alacsonyabb teljesítményben).</li>
+            <li>A C++ alatt nem lehet nyelv (kivéve az assembly nyelvet).</li>
+            <li>A C++-nak más létező programozási nyelvek mellett kell működnie, ahelyett, hogy saját különálló és inkompatibilis programozási környezetet alakítana ki.</li>
+            <li>Ha a programozó szándéka ismeretlen, akkor a programozó számára tegye lehetővé, hogy kézi vezérléssel adja meg azt.</li>
+        </ul>
+
+        <h3><a name="java">Java</a></h3>
+
+        <img class="kep_jobb_stilus" alt="A Java logója" src="java.png" height="128" width="128">
+
+        <p> A Java egy magas szintű, osztályalapú, objektumorientált programozási nyelv, amelyet úgy terveztek, hogy a lehető legkevesebb implementációs függőséggel rendelkezzen.</p>
+        <p>Általános célú programozási nyelv, amelynek célja, hogy a programozók egyszer írhassanak, majd bárhol futtathassanak egy programkódot.</p>
+        Azaz a lefordított Java-kód minden olyan platformon futtatható, amely támogatja a Javát, anélkül, hogy újra kelleneírni, és fordítani.</p>
+        <p>A Java-alkalmazásokat jellemzően bájtkódba fordítják, amely bármely Java virtuális gépen (JVM) futtatható, függetlenül a mögöttes számítógép architektúrától.</p>
+        <p>A Java szintaxisa hasonló a C és a C++ nyelvhez, de kevesebb alacsony szintű eszközzel rendelkezik.</p>
+
+        <h4>Filozófia</h4>
+
+        <table align="center" border="1" width="600">
+            <thead>
+                <tr>
+                    <th>A Java nyelv létrehozásának öt fő célja volt</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Egyszerűnek, és objektumorientáltnak kell lennie.</td>
+
+                <tr>
+                    <td>Robusztusnak és biztonságosnak kell lennie.</td>
+                </tr>
+                <tr>
+                    <td>Architektúra-semlegesnek és hordozhatónak kell lennie.</td>
+                </tr>
+                <tr>
+                    <td>Nagy teljesítményűnek kell lennie.</td>
+                </tr>
+                <tr>
+                    <td>Értelmezettnek, szálakkal rendelkezőnek és dinamikusnak kell lennie.</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3><a name="python">Python</a></h3>
+
+        <img class="kep_jobb_stilus" alt="A Python logója" src="python.png" height="128" width="128">
+
+        <p>A Python egy magas szintű, általános célú programozási nyelv.</p>
+        <p>Tervezési filozófiája a kód olvashatóságára helyezi a hangsúlyt, a kódblokkokat a sor eleji behúzásokkal lehet benne elválasztani.</p>
+        <p>A Python dinamikusan tipizált és szemétgyűjtőt (Garbage Collector) használ.</p>
+        <p>Több programozási paradigmát támogat, mint például a strukturált (különösen procedurális), objektumorientált és funkcionális programozást.</p>
+
+        <h4>Filozófia</h4>
+
+        <ol>
+            <li>A szép jobb, mint a csúnya.</li>
+            <li>Az explicit jobb, mint az implicit.</li>
+            <li>Az egyszerű jobb, mint a bonyolult.</li>
+            <li>Az összetett jobb, mint a bonyolult.</li>
+            <li>Az olvashatóság számít.</li>
+        </ol>
+
+        <a href="logok.html">
+            <div id="logo_link">Logók megtekintése nagyban</div>
+        </a>
+
+    </div>
+</body>
+
+</html>

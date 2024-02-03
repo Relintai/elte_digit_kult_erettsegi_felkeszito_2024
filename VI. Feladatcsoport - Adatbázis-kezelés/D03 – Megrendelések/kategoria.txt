@@ -1,0 +1,6 @@
+id	nev
+1	tejtermek
+2	pekaru
+3	gyumolcs
+4	zoldseg
+5	ital

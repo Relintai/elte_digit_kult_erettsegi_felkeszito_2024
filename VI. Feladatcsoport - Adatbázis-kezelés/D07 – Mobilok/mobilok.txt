@@ -1,0 +1,16 @@
+ID	tipus	ar	szin
+1	Samsung Galaxy S21	288905	fekete
+2	Samsung Galaxy A14	266769	fekete
+3	Apple iPhone 11	243236	piros
+4	Apple iPhone 12	297491	fekete
+5	Apple iPhone 13	220590	fekete
+6	Motorola Edge 40	236317	piros
+7	Samsung Galaxy Note 10	255177	szürke
+8	Huawei P40	291991	fehér
+9	Honor 70	265439	kék
+10	Xiaomi Redmi 12	282355	piros
+11	Huawei Nova 9	207825	fekete
+12	Apple iPhone 15	207164	kék
+13	HONOR 90 5G	255538	fekete
+14	Samsung Galaxy S23	206440	fehér
+15	Huawei P50	244837	fehér

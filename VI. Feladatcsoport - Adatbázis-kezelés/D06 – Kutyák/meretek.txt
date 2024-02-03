@@ -1,0 +1,4 @@
+ID	meret
+1	kicsi
+2	közepes
+3	nagy

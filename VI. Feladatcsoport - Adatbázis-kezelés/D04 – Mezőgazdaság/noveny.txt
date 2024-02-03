@@ -1,0 +1,14 @@
+id	nev
+1	őszi búza
+2	őszi árpa
+3	őszi tritikálé
+4	tavaszi árpa
+5	tavaszi zab
+6	cukorrépa
+7	napraforgó
+8	kukorica
+9	szója
+10	burgonya
+11	repce
+12	rozs
+13	tavaszi búza
