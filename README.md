@@ -6,6 +6,10 @@ ELTE Digitális kultúra - Érettségi felkészítő gyakorlati feladatsorok - E
 
 ![Borító](borito.jpg)
 
+## Linkek
+
+[I. Feladatcsoport - Szövegszerkesztés](I. Feladatcsoport - Szövegszerkesztés/)
+
 ## Szerzők
 
 Bencsik Gergely, Domnánovich Bálint, Magyar Péter, Papatyi Dániel, Pödör Zoltán\
